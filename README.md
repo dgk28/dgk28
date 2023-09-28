@@ -1,6 +1,6 @@
 ### Hi there I'm Deval from India. I am a coding enthusiast and like to collaborate on projects and contribute to open source 👋
 
-[![An image of @deval28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deval28)](https://holopin.io/@deval28)
+
 <!--
 **dgk28/dgk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
