@@ -1,4 +1,4 @@
-### Hi there I'm Deval from India. I am a coding enthusiast and like to collaborate on projects and contribute to open source 👋
+### Hi there 👋 I'm Deval from India. I am a coding enthusiast and like to collaborate on projects and contribute to open source 
 
 
 <!--
